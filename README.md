@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Clement <img src="https://media.giphy.com/media/J5M7SJDfZEZl8HazVG/giphy.gif" width="50px">
+
+### About me
+
 
 ```python
 class DogeIsDope:
@@ -25,3 +28,4 @@ class DogeIsDope:
 if __name__ == '__main__':
     me = DogeIsDope()
 ```
+

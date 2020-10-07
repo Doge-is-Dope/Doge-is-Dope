@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+- Java
+- Python
+- Kotlin
+- JavaScript
+- Android
+- Node
+- CI/CD
+
+🌱 I’m currently learning ...
+- Blockchain
+- Solidity
+- React
+- React Native
+
 <!--
 **Doge-is-Dope/Doge-is-Dope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

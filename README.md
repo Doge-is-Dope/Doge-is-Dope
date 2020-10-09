@@ -1,4 +1,4 @@
-## Hi, I'm Clement <img src="https://media.giphy.com/media/J5M7SJDfZEZl8HazVG/giphy.gif" width="50px">
+## Hello World 👋
 
 ### About me
 
@@ -10,16 +10,16 @@ class DogeIsDope:
         self.username = 'doge-is-dope'
         self.name = 'Clement Liang'
         self.code = {
-            'frontend': ['Android', 'React', 'React Native', 'HTML', 'CSS', 'JavaScript'],
+            'frontend': ['Android', 'React', 'React Native', 'JavaScript'],
             'backend': ['Java', 'Kotlin', 'Python', 'NodeJS'],
             'database': ['MySQL','SQLite', 'Oracle'],
-            'devops': ['Circle CI', 'GitHub Actions'],
-            'tools': ['Git'],
+            'devops': ['CircleCI', 'GitHub Actions'],
+            'tools': ['GitHub', 'JIRA'],
             'architecture': ['MVVM', 'MVP', 'MVC'],
-            'misc': ['Firebase', 'SCRUM', 'GNU/Linux'],
+            'misc': ['Firebase', 'scrum', 'GNU/Linux'],
             'learning': ['blockchain', 'Solidity'],
             }
-        self.interests = ['Podcasting', 'Strategic Gaming']
+        self.interests = ['Podcasting', 'Learning']
 
     def __str__(self):
         return self.name

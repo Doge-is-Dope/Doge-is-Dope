@@ -11,7 +11,7 @@ class DogeIsDope:
         self.name = 'Clement Liang'
         self.code = {
             'frontend': ['Android', 'React', 'React Native', 'JavaScript'],
-            'backend': ['Java', 'Kotlin', 'Python', 'NodeJS'],
+            'backend': ['Java', 'Kotlin', 'Python', 'Node.js', 'GraphQL'],
             'database': ['MySQL','SQLite', 'Oracle'],
             'devops': ['CircleCI', 'GitHub Actions'],
             'tools': ['GitHub', 'JIRA'],

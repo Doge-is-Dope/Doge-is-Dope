@@ -17,7 +17,7 @@ class DogeIsDope:
             'tools': ['GitHub', 'JIRA'],
             'architecture': ['MVVM', 'MVP', 'MVC'],
             'misc': ['Firebase', 'scrum', 'GNU/Linux'],
-            'learning': ['blockchain', 'Solidity'],
+            'learning': ['blockchain', 'Solidity', 'filming'],
             }
         self.interests = ['Podcasting', 'Learning']
 

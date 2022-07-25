@@ -10,16 +10,12 @@ class DogeIsDope:
         self.username = 'doge-is-dope'
         self.name = 'Clement Liang'
         self.code = {
-            'frontend': ['Android', 'React', 'React Native', 'JavaScript'],
+            'frontend': ['Android Jetpack', 'React', 'React Native'],
             'backend': ['Java', 'Kotlin', 'Python', 'Node.js', 'GraphQL'],
-            'database': ['MySQL','SQLite', 'Oracle'],
             'devops': ['CircleCI', 'GitHub Actions'],
-            'tools': ['GitHub', 'JIRA'],
-            'architecture': ['MVVM', 'MVP', 'MVC'],
-            'misc': ['Firebase', 'scrum', 'GNU/Linux'],
             'learning': ['blockchain', 'Solidity', 'filming'],
             }
-        self.interests = ['Podcasting', 'Learning']
+        self.interests = ['podcasting', 'exploring']
 
     def __str__(self):
         return self.name

@@ -11,10 +11,10 @@ class DogeIsDope:
         self.name = 'Clement Liang'
         self.code = {
             'frontend': ['Android Jetpack', 'React', 'React Native'],
-            'backend': ['Java', 'Kotlin', 'Python', 'Node.js', 'GraphQL'],
+            'backend': ['Kotlin', 'Python', 'Node.js', 'GraphQL']
             'devops': ['CircleCI', 'GitHub Actions'],
-            'learning': ['blockchain', 'Solidity', 'filming'],
-            }
+            'learning': ['blockchain', 'Solidity', 'ai', 'LangChain'],
+        }
         self.interests = ['podcasting', 'exploring']
 
     def __str__(self):
